@@ -72,7 +72,7 @@ const Navbar = () => {
             </a>
             {/* Resume Button */}
             <a
-              href="/path-to-your-resume.pdf" // Replace with the correct path to your resume
+              href="resume\RayanAhsan_Resume.pdf" // Replace with the correct path to your resume
               download="Rayan_Ahsan_Resume.pdf"
               className="text-white text-[24px] hover:text-[#915eff]"
             >
